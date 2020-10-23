@@ -8,4 +8,6 @@ package com.example.gitdemo.main;
  * @Date 2020/10/23 17:10
  */
 public class Person {
+
+    private String name;
 }
