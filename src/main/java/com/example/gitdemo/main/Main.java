@@ -10,4 +10,8 @@ package com.example.gitdemo.main;
 public class Main {
     private int age;
     private String name;
+
+    public static void main(String[] args) {
+
+    }
 }
